@@ -1,0 +1,11 @@
+{
+  "name": "react-elastic-field",
+  "version": "1.0.0",
+  "main": "index.tsx",
+  "repository": "git@github.com:sspodin90/react-elastic-field.git",
+  "author": "sergey <sspodin90@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
